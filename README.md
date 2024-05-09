@@ -130,6 +130,8 @@ If you need help with the Keyword Autocomplete Tool or have any questions, feel 
 
 - **Email**: info@pions.io
 
+Feel free to visit the [keyword autocomplete tools page](https://pions.io/tools/keyword-autocomplete) at pions.io.
+
 We appreciate your interest in the Keyword Autocomplete Tool and look forward to hearing from you!
 
 
