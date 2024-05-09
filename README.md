@@ -2,6 +2,8 @@
 
 This tool is essential for SEO professionals, content creators, and digital marketers looking to gain insights into user search behavior and discover valuable keywords that can drive traffic and improve search engine rankings.
 
+## Example - https://pions.io/tools/keyword-autocomplete
+
 ### Purpose
 
 The purpose of this tool is to provide users with a solution for generating keyword ideas by fetching autocomplete suggestions from a multitude of popular search engines.
