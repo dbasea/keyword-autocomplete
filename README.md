@@ -2,7 +2,7 @@
 
 This tool is essential for SEO professionals, content creators, and digital marketers looking to gain insights into user search behavior and discover valuable keywords that can drive traffic and improve search engine rankings.
 
-## Example - https://pions.io/tools/keyword-autocomplete
+## Example - https://edyt.ai/tools/keyword-autocomplete
 
 ### Purpose
 
@@ -118,7 +118,7 @@ We value your feedback! If you encounter any issues while using the website or h
 
 ## Contribution
 
-Your contributions are welcome! Please make pr submission or email at info@pions.io.
+Your contributions are welcome! Please make pr submission or email at info@edyt.ai.
 
 ## License
 
@@ -128,9 +128,9 @@ This project is open-source and available under the MIT License. See the LICENSE
 
 If you need help with the Keyword Autocomplete Tool or have any questions, feel free to contact us:
 
-- **Email**: info@pions.io
+- **Email**: info@edyt.ai
 
-Feel free to visit the [keyword autocomplete tools page](https://pions.io/tools/keyword-autocomplete) at pions.io.
+Feel free to visit the [keyword autocomplete tools page](https://edyt.ai/tools/keyword-autocomplete) at edyt.ai.
 
 We appreciate your interest in the Keyword Autocomplete Tool and look forward to hearing from you!
 
