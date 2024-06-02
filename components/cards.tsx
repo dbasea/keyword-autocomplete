@@ -1,13 +1,14 @@
-import { Results } from "@/types";
+import { Results } from "../types";
 import { ResultCard } from "./single-card";
 import {
+  AmazonIcon,
   BingIcon,
   BraveIcon,
   DuckIon,
   EcosiaIcon,
   GoogleIcon,
   YahooIcon,
-  YandexIcon,
+  YoutubeIcon,
 } from "./icons";
 
 type Props = {
@@ -17,7 +18,7 @@ type Props = {
 
 export const Cards: React.FC<Props> = ({ data, loading }) => {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4  w-full">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full">
       <ResultCard
         data={data.google}
         loading={loading}
@@ -57,12 +58,20 @@ export const Cards: React.FC<Props> = ({ data, loading }) => {
         title="Ecosia"
         Icon={<EcosiaIcon />}
       />
+
       <ResultCard
-        data={data.yandex}
+        data={data.amazon}
         loading={loading}
-        title="Yandex"
-        Icon={<YandexIcon />}
+        title="Amazon"
+        Icon={<AmazonIcon />}
       />
+      <ResultCard
+        data={data.youtube}
+        loading={loading}
+        title="Youtube"
+        Icon={<YoutubeIcon />}
+      />
+
     </div>
   );
 };
