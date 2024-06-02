@@ -4,6 +4,7 @@ export interface Results {
   bing: [];
   ecosia: [];
   duck: [];
-  yandex: [];
   yahoo: [];
+  amazon: [];
+  youtube: [];
 }
